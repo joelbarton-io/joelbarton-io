@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @joelbarton-io
-- 👀 I’m interested in Mountain Bikes, Music, Presence of Mind.
-- 🌱 I’m currently learning: Ruby.
+- 👀 I’m interested in ...
+- 🌱 I’m currently studying at Launch School.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: joelbarton406@gmail.com
 
